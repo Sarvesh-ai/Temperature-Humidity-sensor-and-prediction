@@ -1,0 +1,1352 @@
+{
+  "sensor": {
+    "history": {
+      "10:25:17": {
+        "humidity": 37.7,
+        "temperature": 23.3
+      },
+      "10:25:22": {
+        "humidity": 37.7,
+        "temperature": 23.3
+      },
+      "10:25:47": {
+        "humidity": 37.4,
+        "temperature": 23.3
+      },
+      "10:25:52": {
+        "humidity": 36.6,
+        "temperature": 23.2
+      },
+      "10:25:57": {
+        "humidity": 37.1,
+        "temperature": 23.2
+      },
+      "10:26:02": {
+        "humidity": 37.1,
+        "temperature": 23.2
+      },
+      "10:26:07": {
+        "humidity": 36.9,
+        "temperature": 23.2
+      },
+      "10:26:12": {
+        "humidity": 36.8,
+        "temperature": 23.3
+      },
+      "10:26:17": {
+        "humidity": 36.4,
+        "temperature": 23.2
+      },
+      "10:26:22": {
+        "humidity": 36.1,
+        "temperature": 23.3
+      },
+      "10:26:27": {
+        "humidity": 36.1,
+        "temperature": 23.2
+      },
+      "10:26:32": {
+        "humidity": 36.9,
+        "temperature": 23.2
+      },
+      "10:26:37": {
+        "humidity": 37.4,
+        "temperature": 23.2
+      },
+      "10:26:42": {
+        "humidity": 37.1,
+        "temperature": 23.2
+      },
+      "10:26:47": {
+        "humidity": 36.7,
+        "temperature": 23.2
+      },
+      "10:26:52": {
+        "humidity": 36.7,
+        "temperature": 23.2
+      },
+      "10:26:57": {
+        "humidity": 36.8,
+        "temperature": 23.2
+      },
+      "10:27:02": {
+        "humidity": 38.3,
+        "temperature": 23.2
+      },
+      "10:27:07": {
+        "humidity": 40.8,
+        "temperature": 23.2
+      },
+      "10:27:12": {
+        "humidity": 40.1,
+        "temperature": 23.3
+      },
+      "10:27:17": {
+        "humidity": 39.4,
+        "temperature": 23.3
+      },
+      "10:27:22": {
+        "humidity": 38.6,
+        "temperature": 23.3
+      },
+      "10:27:27": {
+        "humidity": 37.7,
+        "temperature": 23.3
+      },
+      "10:27:32": {
+        "humidity": 37.6,
+        "temperature": 23.3
+      },
+      "10:27:37": {
+        "humidity": 38.5,
+        "temperature": 23.4
+      },
+      "10:27:42": {
+        "humidity": 38.4,
+        "temperature": 23.3
+      },
+      "10:27:47": {
+        "humidity": 38.8,
+        "temperature": 23.4
+      },
+      "10:27:52": {
+        "humidity": 38.9,
+        "temperature": 23.4
+      },
+      "10:27:57": {
+        "humidity": 38,
+        "temperature": 23.4
+      },
+      "10:28:02": {
+        "humidity": 37.3,
+        "temperature": 23.3
+      },
+      "10:28:07": {
+        "humidity": 36.9,
+        "temperature": 23.3
+      },
+      "10:28:12": {
+        "humidity": 36.6,
+        "temperature": 23.3
+      },
+      "10:28:17": {
+        "humidity": 36.4,
+        "temperature": 23.3
+      },
+      "10:28:22": {
+        "humidity": 38.7,
+        "temperature": 23.4
+      },
+      "10:28:27": {
+        "humidity": 38.6,
+        "temperature": 23.3
+      },
+      "10:28:32": {
+        "humidity": 38.2,
+        "temperature": 23.4
+      },
+      "10:28:37": {
+        "humidity": 37.9,
+        "temperature": 23.4
+      },
+      "10:28:42": {
+        "humidity": 37.3,
+        "temperature": 23.5
+      },
+      "10:28:47": {
+        "humidity": 37.1,
+        "temperature": 23.5
+      },
+      "10:28:52": {
+        "humidity": 36.8,
+        "temperature": 23.6
+      },
+      "10:28:57": {
+        "humidity": 36.6,
+        "temperature": 23.7
+      },
+      "10:29:02": {
+        "humidity": 36.4,
+        "temperature": 23.7
+      },
+      "10:29:07": {
+        "humidity": 36.2,
+        "temperature": 23.8
+      },
+      "10:29:12": {
+        "humidity": 36.1,
+        "temperature": 23.8
+      },
+      "10:29:17": {
+        "humidity": 35.7,
+        "temperature": 23.9
+      },
+      "10:29:22": {
+        "humidity": 35.3,
+        "temperature": 24
+      },
+      "10:29:27": {
+        "humidity": 35.2,
+        "temperature": 24
+      },
+      "10:29:32": {
+        "humidity": 36,
+        "temperature": 24
+      },
+      "10:29:37": {
+        "humidity": 35.9,
+        "temperature": 24
+      },
+      "10:29:42": {
+        "humidity": 36.3,
+        "temperature": 24
+      },
+      "10:29:47": {
+        "humidity": 36,
+        "temperature": 24
+      },
+      "10:29:52": {
+        "humidity": 35.8,
+        "temperature": 24.1
+      },
+      "10:29:57": {
+        "humidity": 35.7,
+        "temperature": 24
+      },
+      "10:30:02": {
+        "humidity": 35.5,
+        "temperature": 24
+      },
+      "10:30:07": {
+        "humidity": 37.3,
+        "temperature": 24
+      },
+      "10:30:12": {
+        "humidity": 36.4,
+        "temperature": 24
+      },
+      "10:30:17": {
+        "humidity": 35.5,
+        "temperature": 24
+      },
+      "10:30:22": {
+        "humidity": 35.3,
+        "temperature": 24
+      },
+      "10:30:27": {
+        "humidity": 36,
+        "temperature": 23.9
+      },
+      "10:30:32": {
+        "humidity": 35.8,
+        "temperature": 23.9
+      },
+      "10:30:37": {
+        "humidity": 35.5,
+        "temperature": 23.9
+      },
+      "10:30:42": {
+        "humidity": 35.7,
+        "temperature": 23.9
+      },
+      "10:30:47": {
+        "humidity": 35.1,
+        "temperature": 23.9
+      },
+      "10:30:52": {
+        "humidity": 35.3,
+        "temperature": 23.8
+      },
+      "10:30:57": {
+        "humidity": 35.6,
+        "temperature": 23.8
+      },
+      "10:31:02": {
+        "humidity": 35.9,
+        "temperature": 23.8
+      },
+      "10:31:07": {
+        "humidity": 35.4,
+        "temperature": 23.8
+      },
+      "10:31:12": {
+        "humidity": 36,
+        "temperature": 23.8
+      },
+      "10:31:17": {
+        "humidity": 35.5,
+        "temperature": 23.8
+      },
+      "10:31:22": {
+        "humidity": 35.1,
+        "temperature": 23.7
+      },
+      "10:31:27": {
+        "humidity": 35,
+        "temperature": 23.6
+      },
+      "10:31:32": {
+        "humidity": 35.1,
+        "temperature": 23.6
+      },
+      "10:31:37": {
+        "humidity": 35.9,
+        "temperature": 23.6
+      },
+      "10:31:42": {
+        "humidity": 36.4,
+        "temperature": 23.6
+      },
+      "10:31:47": {
+        "humidity": 36.4,
+        "temperature": 23.5
+      },
+      "10:31:52": {
+        "humidity": 36.4,
+        "temperature": 23.5
+      },
+      "10:31:57": {
+        "humidity": 36.3,
+        "temperature": 23.5
+      },
+      "10:32:02": {
+        "humidity": 36.7,
+        "temperature": 23.5
+      },
+      "10:32:07": {
+        "humidity": 36.8,
+        "temperature": 23.5
+      },
+      "10:32:12": {
+        "humidity": 36.1,
+        "temperature": 23.5
+      },
+      "10:32:17": {
+        "humidity": 36.6,
+        "temperature": 23.5
+      },
+      "10:32:22": {
+        "humidity": 36.8,
+        "temperature": 23.5
+      },
+      "10:32:27": {
+        "humidity": 37.1,
+        "temperature": 23.5
+      },
+      "10:32:32": {
+        "humidity": 37.3,
+        "temperature": 23.5
+      },
+      "10:32:37": {
+        "humidity": 36.7,
+        "temperature": 23.4
+      },
+      "10:32:42": {
+        "humidity": 36.4,
+        "temperature": 23.4
+      },
+      "10:32:47": {
+        "humidity": 36.6,
+        "temperature": 23.4
+      },
+      "10:32:52": {
+        "humidity": 36.2,
+        "temperature": 23.4
+      },
+      "10:32:57": {
+        "humidity": 36.4,
+        "temperature": 23.4
+      },
+      "10:33:02": {
+        "humidity": 36.1,
+        "temperature": 23.4
+      },
+      "10:33:07": {
+        "humidity": 36.5,
+        "temperature": 23.3
+      },
+      "10:33:12": {
+        "humidity": 36.4,
+        "temperature": 23.3
+      },
+      "10:33:17": {
+        "humidity": 36.4,
+        "temperature": 23.3
+      },
+      "10:33:22": {
+        "humidity": 36.5,
+        "temperature": 23.2
+      },
+      "10:33:27": {
+        "humidity": 36.3,
+        "temperature": 23.3
+      },
+      "10:33:32": {
+        "humidity": 36.3,
+        "temperature": 23.3
+      },
+      "10:33:37": {
+        "humidity": 36.1,
+        "temperature": 23.3
+      },
+      "10:33:42": {
+        "humidity": 36.3,
+        "temperature": 23.3
+      },
+      "10:33:47": {
+        "humidity": 36.7,
+        "temperature": 23.3
+      },
+      "10:33:52": {
+        "humidity": 37,
+        "temperature": 23.3
+      },
+      "10:33:57": {
+        "humidity": 36.7,
+        "temperature": 23.3
+      },
+      "10:34:02": {
+        "humidity": 37,
+        "temperature": 23.3
+      },
+      "10:34:07": {
+        "humidity": 37.7,
+        "temperature": 23.4
+      },
+      "10:34:12": {
+        "humidity": 37.8,
+        "temperature": 23.4
+      },
+      "10:34:17": {
+        "humidity": 38.3,
+        "temperature": 23.4
+      },
+      "10:34:22": {
+        "humidity": 38.7,
+        "temperature": 23.4
+      },
+      "10:34:27": {
+        "humidity": 39.4,
+        "temperature": 23.6
+      },
+      "10:34:32": {
+        "humidity": 40.1,
+        "temperature": 23.7
+      },
+      "10:34:37": {
+        "humidity": 40.4,
+        "temperature": 23.8
+      },
+      "10:34:42": {
+        "humidity": 39,
+        "temperature": 23.9
+      },
+      "10:34:47": {
+        "humidity": 37.7,
+        "temperature": 24
+      },
+      "10:34:52": {
+        "humidity": 36.7,
+        "temperature": 24
+      },
+      "10:34:57": {
+        "humidity": 36,
+        "temperature": 24.1
+      },
+      "10:35:02": {
+        "humidity": 35.9,
+        "temperature": 24
+      },
+      "10:35:07": {
+        "humidity": 35.9,
+        "temperature": 24.1
+      },
+      "10:35:12": {
+        "humidity": 36.5,
+        "temperature": 24.1
+      },
+      "10:35:17": {
+        "humidity": 36.5,
+        "temperature": 24
+      },
+      "10:35:22": {
+        "humidity": 35.8,
+        "temperature": 24
+      },
+      "10:35:27": {
+        "humidity": 36.1,
+        "temperature": 24
+      },
+      "10:35:32": {
+        "humidity": 36.7,
+        "temperature": 23.9
+      },
+      "10:35:37": {
+        "humidity": 36.2,
+        "temperature": 23.9
+      },
+      "10:35:42": {
+        "humidity": 36.4,
+        "temperature": 23.9
+      },
+      "10:35:47": {
+        "humidity": 37,
+        "temperature": 23.9
+      },
+      "10:35:52": {
+        "humidity": 37,
+        "temperature": 23.8
+      },
+      "10:35:57": {
+        "humidity": 36.2,
+        "temperature": 23.9
+      },
+      "10:36:02": {
+        "humidity": 35.6,
+        "temperature": 23.8
+      },
+      "10:36:07": {
+        "humidity": 35.9,
+        "temperature": 23.8
+      },
+      "10:36:12": {
+        "humidity": 35.9,
+        "temperature": 23.8
+      },
+      "10:36:17": {
+        "humidity": 37.9,
+        "temperature": 23.8
+      },
+      "10:36:22": {
+        "humidity": 38,
+        "temperature": 23.8
+      },
+      "10:36:27": {
+        "humidity": 37.2,
+        "temperature": 23.8
+      },
+      "10:36:32": {
+        "humidity": 36.7,
+        "temperature": 23.7
+      },
+      "10:36:37": {
+        "humidity": 36.5,
+        "temperature": 23.8
+      },
+      "10:36:42": {
+        "humidity": 36.4,
+        "temperature": 23.7
+      },
+      "10:36:47": {
+        "humidity": 36,
+        "temperature": 23.8
+      },
+      "10:36:52": {
+        "humidity": 35.8,
+        "temperature": 23.8
+      },
+      "10:36:57": {
+        "humidity": 35.6,
+        "temperature": 23.8
+      },
+      "10:37:02": {
+        "humidity": 35.9,
+        "temperature": 23.7
+      },
+      "10:37:07": {
+        "humidity": 36.3,
+        "temperature": 23.7
+      },
+      "10:37:12": {
+        "humidity": 36.6,
+        "temperature": 23.8
+      },
+      "10:37:17": {
+        "humidity": 36.8,
+        "temperature": 23.8
+      },
+      "10:37:22": {
+        "humidity": 37,
+        "temperature": 23.8
+      },
+      "10:37:27": {
+        "humidity": 37.1,
+        "temperature": 23.8
+      },
+      "10:37:32": {
+        "humidity": 36.8,
+        "temperature": 23.9
+      },
+      "10:37:37": {
+        "humidity": 35.9,
+        "temperature": 23.9
+      },
+      "10:37:42": {
+        "humidity": 35.1,
+        "temperature": 23.9
+      },
+      "10:37:47": {
+        "humidity": 34.7,
+        "temperature": 23.9
+      },
+      "10:37:52": {
+        "humidity": 34.5,
+        "temperature": 23.9
+      },
+      "10:37:57": {
+        "humidity": 34.3,
+        "temperature": 23.9
+      },
+      "10:38:02": {
+        "humidity": 34.4,
+        "temperature": 23.8
+      },
+      "10:38:07": {
+        "humidity": 34.7,
+        "temperature": 23.8
+      },
+      "10:38:12": {
+        "humidity": 35.3,
+        "temperature": 23.8
+      },
+      "10:38:17": {
+        "humidity": 35.1,
+        "temperature": 23.7
+      },
+      "10:38:22": {
+        "humidity": 34.9,
+        "temperature": 23.7
+      },
+      "10:38:27": {
+        "humidity": 34.8,
+        "temperature": 23.7
+      },
+      "10:38:32": {
+        "humidity": 34.8,
+        "temperature": 23.6
+      },
+      "10:38:37": {
+        "humidity": 34.9,
+        "temperature": 23.6
+      },
+      "10:38:42": {
+        "humidity": 35.2,
+        "temperature": 23.5
+      },
+      "10:38:47": {
+        "humidity": 35.7,
+        "temperature": 23.5
+      },
+      "10:38:52": {
+        "humidity": 35.9,
+        "temperature": 23.4
+      },
+      "10:38:57": {
+        "humidity": 35.6,
+        "temperature": 23.4
+      },
+      "10:39:02": {
+        "humidity": 35.3,
+        "temperature": 23.4
+      },
+      "10:39:07": {
+        "humidity": 35.8,
+        "temperature": 23.4
+      },
+      "10:39:12": {
+        "humidity": 36.5,
+        "temperature": 23.4
+      },
+      "10:39:17": {
+        "humidity": 36.4,
+        "temperature": 23.3
+      },
+      "10:39:22": {
+        "humidity": 36.6,
+        "temperature": 23.3
+      },
+      "10:39:27": {
+        "humidity": 36.4,
+        "temperature": 23.3
+      },
+      "10:39:32": {
+        "humidity": 36.2,
+        "temperature": 23.3
+      },
+      "10:39:37": {
+        "humidity": 35.9,
+        "temperature": 23.2
+      },
+      "10:39:42": {
+        "humidity": 35.6,
+        "temperature": 23.3
+      },
+      "10:39:47": {
+        "humidity": 35.8,
+        "temperature": 23.3
+      },
+      "10:39:52": {
+        "humidity": 36.5,
+        "temperature": 23.2
+      },
+      "10:39:57": {
+        "humidity": 36,
+        "temperature": 23.3
+      },
+      "10:40:02": {
+        "humidity": 36.2,
+        "temperature": 23.2
+      },
+      "10:40:07": {
+        "humidity": 35.9,
+        "temperature": 23.2
+      },
+      "10:40:12": {
+        "humidity": 36.1,
+        "temperature": 23.2
+      },
+      "10:40:17": {
+        "humidity": 35.8,
+        "temperature": 23.2
+      },
+      "10:40:22": {
+        "humidity": 35.5,
+        "temperature": 23.2
+      },
+      "10:40:27": {
+        "humidity": 35.5,
+        "temperature": 23.2
+      },
+      "10:40:32": {
+        "humidity": 36.7,
+        "temperature": 23.1
+      },
+      "10:40:37": {
+        "humidity": 37.5,
+        "temperature": 23.1
+      },
+      "10:40:42": {
+        "humidity": 36.6,
+        "temperature": 23.1
+      },
+      "10:40:47": {
+        "humidity": 36.8,
+        "temperature": 23.2
+      },
+      "10:40:52": {
+        "humidity": 36.8,
+        "temperature": 23.1
+      },
+      "10:40:57": {
+        "humidity": 36.3,
+        "temperature": 23.1
+      },
+      "10:41:02": {
+        "humidity": 36,
+        "temperature": 23.1
+      },
+      "10:41:07": {
+        "humidity": 36,
+        "temperature": 23.1
+      },
+      "10:41:12": {
+        "humidity": 36.2,
+        "temperature": 23.1
+      },
+      "10:41:17": {
+        "humidity": 36.2,
+        "temperature": 23.1
+      },
+      "10:41:22": {
+        "humidity": 36.1,
+        "temperature": 23.1
+      },
+      "10:41:27": {
+        "humidity": 35.9,
+        "temperature": 23.1
+      },
+      "10:41:32": {
+        "humidity": 35.7,
+        "temperature": 23.1
+      },
+      "10:41:37": {
+        "humidity": 35.7,
+        "temperature": 23.1
+      },
+      "10:41:42": {
+        "humidity": 35.8,
+        "temperature": 23.1
+      },
+      "10:41:47": {
+        "humidity": 35.8,
+        "temperature": 23.1
+      },
+      "10:41:52": {
+        "humidity": 35.7,
+        "temperature": 23.1
+      },
+      "10:41:57": {
+        "humidity": 35.7,
+        "temperature": 23.1
+      },
+      "10:42:02": {
+        "humidity": 36,
+        "temperature": 23.1
+      },
+      "10:42:07": {
+        "humidity": 36.2,
+        "temperature": 23.1
+      },
+      "10:42:12": {
+        "humidity": 35.9,
+        "temperature": 23.1
+      },
+      "10:42:17": {
+        "humidity": 35.9,
+        "temperature": 23.1
+      },
+      "10:42:22": {
+        "humidity": 35.8,
+        "temperature": 23.1
+      },
+      "10:42:27": {
+        "humidity": 35.9,
+        "temperature": 23.2
+      },
+      "10:42:32": {
+        "humidity": 36.3,
+        "temperature": 23.2
+      },
+      "10:42:37": {
+        "humidity": 36,
+        "temperature": 23.1
+      },
+      "10:42:42": {
+        "humidity": 36,
+        "temperature": 23.2
+      },
+      "10:42:47": {
+        "humidity": 35.7,
+        "temperature": 23.2
+      },
+      "10:42:52": {
+        "humidity": 36.7,
+        "temperature": 23.2
+      },
+      "10:42:57": {
+        "humidity": 36.5,
+        "temperature": 23.2
+      },
+      "10:43:02": {
+        "humidity": 36.1,
+        "temperature": 23.1
+      },
+      "10:43:07": {
+        "humidity": 36.2,
+        "temperature": 23.1
+      },
+      "10:43:12": {
+        "humidity": 36.3,
+        "temperature": 23.2
+      },
+      "10:43:17": {
+        "humidity": 36.3,
+        "temperature": 23.2
+      },
+      "10:43:22": {
+        "humidity": 36.2,
+        "temperature": 23.2
+      },
+      "10:43:27": {
+        "humidity": 36.2,
+        "temperature": 23.2
+      },
+      "10:43:32": {
+        "humidity": 36.2,
+        "temperature": 23.2
+      },
+      "10:43:37": {
+        "humidity": 36.1,
+        "temperature": 23.2
+      },
+      "10:43:42": {
+        "humidity": 35.8,
+        "temperature": 23.2
+      },
+      "10:43:47": {
+        "humidity": 35.9,
+        "temperature": 23.2
+      },
+      "10:43:52": {
+        "humidity": 35.9,
+        "temperature": 23.2
+      },
+      "10:43:57": {
+        "humidity": 36.1,
+        "temperature": 23.2
+      },
+      "10:44:02": {
+        "humidity": 35.8,
+        "temperature": 23.2
+      },
+      "10:44:07": {
+        "humidity": 35.6,
+        "temperature": 23.2
+      },
+      "10:44:12": {
+        "humidity": 35.5,
+        "temperature": 23.3
+      },
+      "10:44:17": {
+        "humidity": 35.6,
+        "temperature": 23.2
+      },
+      "10:44:22": {
+        "humidity": 35.6,
+        "temperature": 23.3
+      },
+      "10:44:27": {
+        "humidity": 35.8,
+        "temperature": 23.3
+      },
+      "10:44:32": {
+        "humidity": 35.6,
+        "temperature": 23.3
+      },
+      "10:44:37": {
+        "humidity": 35.7,
+        "temperature": 23.2
+      },
+      "10:44:42": {
+        "humidity": 35.6,
+        "temperature": 23.2
+      },
+      "10:44:47": {
+        "humidity": 36.1,
+        "temperature": 23.3
+      },
+      "10:44:52": {
+        "humidity": 36.1,
+        "temperature": 23.3
+      },
+      "10:44:57": {
+        "humidity": 36.3,
+        "temperature": 23.3
+      },
+      "10:45:02": {
+        "humidity": 36,
+        "temperature": 23.3
+      },
+      "10:45:07": {
+        "humidity": 35.8,
+        "temperature": 23.3
+      },
+      "10:45:12": {
+        "humidity": 35.8,
+        "temperature": 23.3
+      },
+      "10:45:17": {
+        "humidity": 36.1,
+        "temperature": 23.3
+      },
+      "10:45:22": {
+        "humidity": 36,
+        "temperature": 23.3
+      },
+      "10:45:27": {
+        "humidity": 35.8,
+        "temperature": 23.3
+      },
+      "10:45:32": {
+        "humidity": 36,
+        "temperature": 23.2
+      },
+      "10:45:37": {
+        "humidity": 35.7,
+        "temperature": 23.2
+      },
+      "10:45:42": {
+        "humidity": 35.7,
+        "temperature": 23.2
+      },
+      "10:45:47": {
+        "humidity": 35.6,
+        "temperature": 23.2
+      },
+      "10:45:52": {
+        "humidity": 35.6,
+        "temperature": 23.2
+      },
+      "10:45:57": {
+        "humidity": 35.8,
+        "temperature": 23.1
+      },
+      "10:46:02": {
+        "humidity": 35.6,
+        "temperature": 23.1
+      },
+      "10:46:07": {
+        "humidity": 35.5,
+        "temperature": 23.1
+      },
+      "10:46:12": {
+        "humidity": 35.7,
+        "temperature": 23.1
+      },
+      "10:46:17": {
+        "humidity": 35.7,
+        "temperature": 23.1
+      },
+      "10:46:22": {
+        "humidity": 35.6,
+        "temperature": 23.1
+      },
+      "10:46:27": {
+        "humidity": 35.5,
+        "temperature": 23.1
+      },
+      "10:46:32": {
+        "humidity": 35.7,
+        "temperature": 23.1
+      },
+      "10:46:37": {
+        "humidity": 35.6,
+        "temperature": 23.1
+      },
+      "10:46:42": {
+        "humidity": 35.5,
+        "temperature": 23.2
+      },
+      "10:46:47": {
+        "humidity": 35.5,
+        "temperature": 23.2
+      },
+      "10:46:52": {
+        "humidity": 35.4,
+        "temperature": 23.2
+      },
+      "10:46:57": {
+        "humidity": 35.3,
+        "temperature": 23.2
+      },
+      "10:47:02": {
+        "humidity": 35.5,
+        "temperature": 23.2
+      },
+      "10:47:07": {
+        "humidity": 36.1,
+        "temperature": 23.2
+      },
+      "10:47:12": {
+        "humidity": 35.6,
+        "temperature": 23.2
+      },
+      "10:47:17": {
+        "humidity": 35.4,
+        "temperature": 23.2
+      },
+      "10:47:22": {
+        "humidity": 35.3,
+        "temperature": 23.2
+      },
+      "10:47:27": {
+        "humidity": 35.2,
+        "temperature": 23.2
+      },
+      "10:47:32": {
+        "humidity": 35.2,
+        "temperature": 23.2
+      },
+      "10:47:37": {
+        "humidity": 35.4,
+        "temperature": 23.2
+      },
+      "10:47:42": {
+        "humidity": 36.4,
+        "temperature": 23.2
+      },
+      "10:47:47": {
+        "humidity": 36.4,
+        "temperature": 23.2
+      },
+      "10:47:52": {
+        "humidity": 36,
+        "temperature": 23.2
+      },
+      "10:47:57": {
+        "humidity": 35.6,
+        "temperature": 23.2
+      },
+      "10:48:02": {
+        "humidity": 35.4,
+        "temperature": 23.2
+      },
+      "10:48:07": {
+        "humidity": 35.4,
+        "temperature": 23.2
+      },
+      "10:48:12": {
+        "humidity": 35.3,
+        "temperature": 23.2
+      },
+      "10:48:17": {
+        "humidity": 35.3,
+        "temperature": 23.2
+      },
+      "10:48:22": {
+        "humidity": 35.9,
+        "temperature": 23.2
+      },
+      "10:48:27": {
+        "humidity": 35.8,
+        "temperature": 23.2
+      },
+      "10:48:32": {
+        "humidity": 35.7,
+        "temperature": 23.2
+      },
+      "10:48:37": {
+        "humidity": 35.9,
+        "temperature": 23.2
+      },
+      "10:48:42": {
+        "humidity": 36.2,
+        "temperature": 23.2
+      },
+      "10:48:47": {
+        "humidity": 36.1,
+        "temperature": 23.2
+      },
+      "10:48:52": {
+        "humidity": 36.2,
+        "temperature": 23.2
+      },
+      "10:48:57": {
+        "humidity": 35.7,
+        "temperature": 23.2
+      },
+      "10:49:02": {
+        "humidity": 35.3,
+        "temperature": 23.3
+      },
+      "10:49:07": {
+        "humidity": 35.4,
+        "temperature": 23.3
+      },
+      "10:49:12": {
+        "humidity": 35.4,
+        "temperature": 23.2
+      },
+      "10:49:17": {
+        "humidity": 35.8,
+        "temperature": 23.2
+      },
+      "10:49:22": {
+        "humidity": 35.8,
+        "temperature": 23.3
+      },
+      "10:49:27": {
+        "humidity": 36,
+        "temperature": 23.3
+      },
+      "10:49:32": {
+        "humidity": 36.1,
+        "temperature": 23.3
+      },
+      "10:49:37": {
+        "humidity": 36.1,
+        "temperature": 23.4
+      },
+      "10:49:42": {
+        "humidity": 36,
+        "temperature": 23.4
+      },
+      "10:49:47": {
+        "humidity": 36.2,
+        "temperature": 23.4
+      },
+      "10:49:52": {
+        "humidity": 36.7,
+        "temperature": 23.5
+      },
+      "10:49:57": {
+        "humidity": 37.3,
+        "temperature": 23.5
+      },
+      "10:50:02": {
+        "humidity": 37.2,
+        "temperature": 23.6
+      },
+      "10:50:07": {
+        "humidity": 35.5,
+        "temperature": 23.6
+      },
+      "10:50:12": {
+        "humidity": 35.1,
+        "temperature": 23.6
+      },
+      "10:50:17": {
+        "humidity": 35.9,
+        "temperature": 23.7
+      },
+      "10:50:22": {
+        "humidity": 35.3,
+        "temperature": 23.7
+      },
+      "10:50:27": {
+        "humidity": 34.8,
+        "temperature": 23.7
+      },
+      "10:50:32": {
+        "humidity": 34.7,
+        "temperature": 23.7
+      },
+      "10:50:37": {
+        "humidity": 34.5,
+        "temperature": 23.6
+      },
+      "10:50:42": {
+        "humidity": 34.5,
+        "temperature": 23.6
+      },
+      "10:50:47": {
+        "humidity": 34.5,
+        "temperature": 23.6
+      },
+      "10:50:52": {
+        "humidity": 34.9,
+        "temperature": 23.6
+      },
+      "10:50:57": {
+        "humidity": 35.2,
+        "temperature": 23.6
+      },
+      "10:51:02": {
+        "humidity": 35,
+        "temperature": 23.6
+      },
+      "10:51:07": {
+        "humidity": 34.5,
+        "temperature": 23.6
+      },
+      "10:51:12": {
+        "humidity": 34.4,
+        "temperature": 23.6
+      },
+      "10:51:17": {
+        "humidity": 35.5,
+        "temperature": 23.6
+      },
+      "10:51:22": {
+        "humidity": 35.4,
+        "temperature": 23.5
+      },
+      "10:51:27": {
+        "humidity": 35.3,
+        "temperature": 23.6
+      },
+      "10:51:32": {
+        "humidity": 35.3,
+        "temperature": 23.6
+      },
+      "10:51:37": {
+        "humidity": 35.5,
+        "temperature": 23.6
+      },
+      "10:51:42": {
+        "humidity": 35.9,
+        "temperature": 23.6
+      },
+      "10:51:47": {
+        "humidity": 36.4,
+        "temperature": 23.6
+      },
+      "10:51:52": {
+        "humidity": 37.1,
+        "temperature": 23.6
+      },
+      "10:52:19": {
+        "humidity": 36.6,
+        "temperature": 23.7
+      },
+      "10:52:24": {
+        "humidity": 36,
+        "temperature": 23.7
+      },
+      "10:52:29": {
+        "humidity": 35.5,
+        "temperature": 23.7
+      },
+      "10:52:34": {
+        "humidity": 35.4,
+        "temperature": 23.7
+      },
+      "10:52:39": {
+        "humidity": 35.6,
+        "temperature": 23.7
+      },
+      "10:52:44": {
+        "humidity": 35.8,
+        "temperature": 23.7
+      },
+      "10:52:49": {
+        "humidity": 35.4,
+        "temperature": 23.7
+      },
+      "10:52:54": {
+        "humidity": 34.9,
+        "temperature": 23.7
+      },
+      "10:52:59": {
+        "humidity": 34.7,
+        "temperature": 23.7
+      },
+      "10:53:04": {
+        "humidity": 34.4,
+        "temperature": 23.6
+      },
+      "10:53:09": {
+        "humidity": 34.3,
+        "temperature": 23.6
+      },
+      "10:53:14": {
+        "humidity": 34.2,
+        "temperature": 23.6
+      },
+      "10:53:19": {
+        "humidity": 34.3,
+        "temperature": 23.6
+      },
+      "10:53:24": {
+        "humidity": 34.6,
+        "temperature": 23.6
+      },
+      "10:53:29": {
+        "humidity": 34.5,
+        "temperature": 23.5
+      },
+      "10:53:34": {
+        "humidity": 34.7,
+        "temperature": 23.5
+      },
+      "10:53:39": {
+        "humidity": 35.3,
+        "temperature": 23.5
+      },
+      "10:53:44": {
+        "humidity": 35,
+        "temperature": 23.5
+      },
+      "10:53:49": {
+        "humidity": 35,
+        "temperature": 23.5
+      },
+      "10:53:54": {
+        "humidity": 35,
+        "temperature": 23.5
+      }
+    },
+    "humidity": 36.7,
+    "temperature": 23.6
+  }
+}
